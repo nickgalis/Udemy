@@ -1,0 +1,3 @@
+C:/Users/nickg/Coding Tests/Udemy/cmake-build-debug/CMakeFiles/Udemy.dir
+C:/Users/nickg/Coding Tests/Udemy/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nickg/Coding Tests/Udemy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
